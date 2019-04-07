@@ -1,0 +1,68 @@
+{
+  "id": 1276453003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-11.78333,27.23333,-11.78333,27.23333",
+    "geom:latitude":27.23333,
+    "geom:longitude":-11.78333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Piedra del Kaisser",
+    "gn:country_code":"EH",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2462493,
+    "gn:latitude":27.23333,
+    "gn:longitude":-11.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Piedra del Kaisser",
+    "gn:population":0,
+    "gn:timezone":"Africa/El_Aaiun",
+    "iso:country":"EH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khre\u00efbichat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2462493
+    },
+    "wof:country":"EH",
+    "wof:geomhash":"8bf2fd68064e71907bf414f0addb5195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "locality_id":1276453003,
+            "region_id":85673947
+        }
+    ],
+    "wof:id":1276453003,
+    "wof:lastmodified":1537621286,
+    "wof:name":"Piedra del Kaisser",
+    "wof:parent_id":85673947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -11.78333,
+    27.23333,
+    -11.78333,
+    27.23333
+],
+  "geometry": {"coordinates":[-11.78333,27.23333],"type":"Point"}
+}

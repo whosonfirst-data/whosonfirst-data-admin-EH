@@ -1,0 +1,65 @@
+{
+  "id": 1293366977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.82542,23.44905,-12.82542,23.44905",
+    "geom:latitude":23.44905,
+    "geom:longitude":-12.82542,
+    "gn:asciiname":"Mijek",
+    "gn:country_code":"EH",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300874,
+    "gn:latitude":23.44905,
+    "gn:longitude":-12.82542,
+    "gn:modification_date":"2017-10-10",
+    "gn:name":"Mijek",
+    "gn:population":0,
+    "gn:timezone":"Africa/El_Aaiun",
+    "iso:country":"EH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632217,
+        85681349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300874,
+        "wk:page":"Mijek"
+    },
+    "wof:country":"EH",
+    "wof:geomhash":"4bd4c0fd5d9add873870e2e9b5e6171c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632217,
+            "locality_id":1293366977,
+            "region_id":85681349
+        }
+    ],
+    "wof:id":1293366977,
+    "wof:lastmodified":1537562638,
+    "wof:name":"Mijek",
+    "wof:parent_id":85681349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.82542,
+    23.44905,
+    -12.82542,
+    23.44905
+],
+  "geometry": {"coordinates":[-12.82542,23.44905],"type":"Point"}
+}

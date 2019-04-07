@@ -1,0 +1,240 @@
+{
+  "id": 1141909145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-9.65252221825,26.119166686,-9.65252221825,26.119166686",
+    "geom:latitude":26.119167,
+    "geom:longitude":-9.652522,
+    "iso:country":"EH",
+    "lbl:latitude":26.119167,
+    "lbl:longitude":-9.652522,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u0644\u062d\u0644\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Bir Lehlu"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0411\u0456\u0440-\u041b\u0435\u043b\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Bir Lahlu"
+    ],
+    "name:chi_x_preferred":[
+        "\u6bd4\u9102-\u96f7\u697c"
+    ],
+    "name:dan_x_preferred":[
+        "Bir Lehlou"
+    ],
+    "name:dut_x_preferred":[
+        "Bir Lehlou"
+    ],
+    "name:eng_x_preferred":[
+        "Bir Lehlou"
+    ],
+    "name:est_x_preferred":[
+        "Bir Lehl\u00fa"
+    ],
+    "name:fre_x_preferred":[
+        "Bir Lehlou"
+    ],
+    "name:ger_x_preferred":[
+        "Bir Lehlu"
+    ],
+    "name:ind_x_preferred":[
+        "Bir Lehlou"
+    ],
+    "name:ita_x_preferred":[
+        "Bir Lehlu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30eb\u30fb\u30e9\u30eb\u30d5\u30fc"
+    ],
+    "name:lit_x_preferred":[
+        "Bir Lehlu"
+    ],
+    "name:lmo_x_preferred":[
+        "Bir Lehlu"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0438\u0440 \u041b\u0435\u043b\u0443"
+    ],
+    "name:nob_x_preferred":[
+        "Bir Lehlou"
+    ],
+    "name:pms_x_preferred":[
+        "Bir Lehlu"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Bir al-Hilw"
+    ],
+    "name:por_x_preferred":[
+        "Bir Lehlou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0440-\u041b\u0435\u043b\u0443"
+    ],
+    "name:sco_x_preferred":[
+        "Bir Lehlou"
+    ],
+    "name:spa_x_preferred":[
+        "Bir Lehlu"
+    ],
+    "name:srd_x_preferred":[
+        "Bir Lehlu"
+    ],
+    "name:swe_x_preferred":[
+        "Bir Lehlou"
+    ],
+    "name:tur_x_preferred":[
+        "Bir Lehlu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u0440-\u041b\u0435\u043b\u0443"
+    ],
+    "name:vec_x_preferred":[
+        "Bir Lehlou"
+    ],
+    "name:war_x_preferred":[
+        "Bir Lehlou"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Western Sahara",
+    "ne:ADM0_A3":"SAH",
+    "ne:ADM1NAME":null,
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":1,
+    "ne:CAPIN":"Claimed as inte",
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":1,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added place.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-0 capital alt",
+    "ne:FEATURE_CL":null,
+    "ne:FEATURE_CO":null,
+    "ne:GEONAMEID":-1,
+    "ne:GEONAMESNO":"No GeoNames match due to small population, not in GeoNames, or poor NEV placement.",
+    "ne:GN_ASCII":null,
+    "ne:GN_POP":0,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"EH",
+    "ne:LABELRANK":0,
+    "ne:LATITUDE":26.119167,
+    "ne:LONGITUDE":-9.652522,
+    "ne:LS_MATCH":2,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Bir Lehlou",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Bir Lehlou",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":500,
+    "ne:POP_MIN":200,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":2,
+    "ne:RANK_MIN":1,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Western Sahara",
+    "ne:SOV_A3":"SAH",
+    "ne:TIMEZONE":null,
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.0,
+    "reversegeo:latitude":26.119167,
+    "reversegeo:longitude":-9.652522,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191573,
+        85632217,
+        85681349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q614754"
+    },
+    "wof:country":"EH",
+    "wof:created":1499131032,
+    "wof:geomhash":"f814bc48e9721d51e2a3848d7895d3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632217,
+            "locality_id":1141909145,
+            "region_id":85681349
+        }
+    ],
+    "wof:id":1141909145,
+    "wof:lastmodified":1513956733,
+    "wof:name":"Bir Lehlou",
+    "wof:parent_id":85681349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -9.65252221825011,
+    26.11916668599338,
+    -9.65252221825011,
+    26.11916668599338
+],
+  "geometry": {"coordinates":[-9.65252221825011,26.11916668599338],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360303621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.45018,21.60336,-16.45018,21.60336",
+    "geom:latitude":21.60336,
+    "geom:longitude":-16.45018,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bir Gandus",
+    "gn:country_code":"EH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2463112,
+    "gn:latitude":21.60336,
+    "gn:longitude":-16.45018,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bir Gand\u00fas",
+    "gn:population":0,
+    "gn:timezone":"Africa/El_Aaiun",
+    "iso:country":"EH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bir Ganduz",
+        "Anzarane",
+        "Bir Gand\u00fas",
+        "Bir Ghandouz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463112
+    },
+    "wof:country":"EH",
+    "wof:geomhash":"3c5a063f2eaf2c8069a62a02991c928d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "locality_id":1360303621,
+            "region_id":85673951
+        }
+    ],
+    "wof:id":1360303621,
+    "wof:lastmodified":1537621287,
+    "wof:name":"Bir Gandus",
+    "wof:parent_id":85673951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.45018,
+    21.60336,
+    -16.45018,
+    21.60336
+],
+  "geometry": {"coordinates":[-16.45018,21.60336],"type":"Point"}
+}

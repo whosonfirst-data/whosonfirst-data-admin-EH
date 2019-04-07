@@ -1,0 +1,71 @@
+{
+  "id": 1343671927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.99222,27.4625,-12.99222,27.4625",
+    "geom:latitude":27.4625,
+    "geom:longitude":-12.99222,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Uad Damran",
+    "gn:cc2":"EH",
+    "gn:country_code":"EH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2462955,
+    "gn:latitude":27.4625,
+    "gn:longitude":-12.99222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Uad Damran",
+    "gn:population":0,
+    "gn:timezone":"Africa/El_Aaiun",
+    "iso:country":"EH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daora",
+        "Dora",
+        "Uad Damran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2462955
+    },
+    "wof:country":"EH",
+    "wof:geomhash":"5289c8441bf098eb79e2a8da9a14bc41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "locality_id":1343671927,
+            "region_id":85673941
+        }
+    ],
+    "wof:id":1343671927,
+    "wof:lastmodified":1537621286,
+    "wof:name":"Uad Damran",
+    "wof:parent_id":85673941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.99222,
+    27.4625,
+    -12.99222,
+    27.4625
+],
+  "geometry": {"coordinates":[-12.99222,27.4625],"type":"Point"}
+}

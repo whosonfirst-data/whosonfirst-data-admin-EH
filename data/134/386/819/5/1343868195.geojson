@@ -1,0 +1,65 @@
+{
+  "id": 1343868195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.65791,22.25346,-14.65791,22.25346",
+    "geom:latitude":22.25346,
+    "geom:longitude":-14.65791,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sdar",
+    "gn:country_code":"EH",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7390717,
+    "gn:latitude":22.25346,
+    "gn:longitude":-14.65791,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Sdar",
+    "gn:population":0,
+    "gn:timezone":"Africa/El_Aaiun",
+    "iso:country":"EH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7390717
+    },
+    "wof:country":"EH",
+    "wof:geomhash":"6bb215d86d0adc27af08101d5c541daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "locality_id":1343868195,
+            "region_id":85673951
+        }
+    ],
+    "wof:id":1343868195,
+    "wof:lastmodified":1536655381,
+    "wof:name":"Sdar",
+    "wof:parent_id":85673951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.65791,
+    22.25346,
+    -14.65791,
+    22.25346
+],
+  "geometry": {"coordinates":[-14.65791,22.25346],"type":"Point"}
+}

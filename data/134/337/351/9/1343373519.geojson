@@ -1,0 +1,72 @@
+{
+  "id": 1343373519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-10.55889,26.1579,-10.55889,26.1579",
+    "geom:latitude":26.1579,
+    "geom:longitude":-10.55889,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tifariti",
+    "gn:cc2":"EH",
+    "gn:country_code":"EH",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2461667,
+    "gn:latitude":26.1579,
+    "gn:longitude":-10.55889,
+    "gn:modification_date":"2017-10-27",
+    "gn:name":"Tifariti",
+    "gn:population":0,
+    "gn:timezone":"Africa/El_Aaiun",
+    "iso:country":"EH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tfariti",
+        "Tifarita",
+        "Tifariti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632217,
+        85681349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461667,
+        "wk:page":"Tifariti"
+    },
+    "wof:country":"EH",
+    "wof:geomhash":"8d54822e19e7472e5e41b0a893bf2bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632217,
+            "locality_id":1343373519,
+            "region_id":85681349
+        }
+    ],
+    "wof:id":1343373519,
+    "wof:lastmodified":1537621285,
+    "wof:name":"Tifariti",
+    "wof:parent_id":85681349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -10.55889,
+    26.1579,
+    -10.55889,
+    26.1579
+],
+  "geometry": {"coordinates":[-10.55889,26.1579],"type":"Point"}
+}

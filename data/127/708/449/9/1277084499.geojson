@@ -1,0 +1,68 @@
+{
+  "id": 1277084499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-15.5998,22.95911,-15.5998,22.95911",
+    "geom:latitude":22.95911,
+    "geom:longitude":-15.5998,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Amseisat Saccum",
+    "gn:country_code":"EH",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2463290,
+    "gn:latitude":22.95911,
+    "gn:longitude":-15.5998,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Amseisat Saccum",
+    "gn:population":0,
+    "gn:timezone":"Africa/El_Aaiun",
+    "iso:country":"EH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsaysat - As - Sakoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2463290
+    },
+    "wof:country":"EH",
+    "wof:geomhash":"730af338c0d7815864003a841bc35263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "locality_id":1277084499,
+            "region_id":85673951
+        }
+    ],
+    "wof:id":1277084499,
+    "wof:lastmodified":1537621287,
+    "wof:name":"Amseisat Saccum",
+    "wof:parent_id":85673951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -15.5998,
+    22.95911,
+    -15.5998,
+    22.95911
+],
+  "geometry": {"coordinates":[-15.5998,22.95911],"type":"Point"}
+}

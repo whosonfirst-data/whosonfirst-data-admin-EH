@@ -1,0 +1,61 @@
+{
+  "id": 1209633639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.4,27.43333,-12.4,27.43333",
+    "geom:latitude":27.43333,
+    "geom:longitude":-12.4,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Samlat el Hafad",
+    "gn:country_code":"EH",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2462628,
+    "gn:latitude":27.43333,
+    "gn:longitude":-12.4,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Samlat el Hafad",
+    "gn:population":0,
+    "gn:timezone":"Africa/El_Aaiun",
+    "iso:country":"EH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2462628
+    },
+    "wof:country":"EH",
+    "wof:geomhash":"98b063e89501c1616f1f63c79251dd17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632217,
+            "locality_id":1209633639
+        }
+    ],
+    "wof:id":1209633639,
+    "wof:lastmodified":1536281111,
+    "wof:name":"Samlat el Hafad",
+    "wof:parent_id":85632217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.4,
+    27.43333,
+    -12.4,
+    27.43333
+],
+  "geometry": {"coordinates":[-12.4,27.43333],"type":"Point"}
+}

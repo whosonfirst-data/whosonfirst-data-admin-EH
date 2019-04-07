@@ -1,0 +1,72 @@
+{
+  "id": 1259701975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.33694,24.99528,-12.33694,24.99528",
+    "geom:latitude":24.99528,
+    "geom:longitude":-12.33694,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Guelta Zemmur",
+    "gn:cc2":"EH",
+    "gn:country_code":"EH",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2462653,
+    "gn:latitude":24.99528,
+    "gn:longitude":-12.33694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guelta Zemmur",
+    "gn:population":0,
+    "gn:timezone":"Africa/El_Aaiun",
+    "iso:country":"EH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hasi Gueleita",
+        "Guelta Zemur",
+        "Galtat Zemmour",
+        "Guelta Zemmur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632217,
+        85681349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2462653
+    },
+    "wof:country":"EH",
+    "wof:geomhash":"115f381c202da116c71dc106db4cb384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632217,
+            "locality_id":1259701975,
+            "region_id":85681349
+        }
+    ],
+    "wof:id":1259701975,
+    "wof:lastmodified":1537621286,
+    "wof:name":"Guelta Zemmur",
+    "wof:parent_id":85681349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.33694,
+    24.99528,
+    -12.33694,
+    24.99528
+],
+  "geometry": {"coordinates":[-12.33694,24.99528],"type":"Point"}
+}

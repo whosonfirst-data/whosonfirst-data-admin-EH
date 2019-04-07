@@ -1,0 +1,67 @@
+{
+  "id": 1360304227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-12.99412,27.46175,-12.99412,27.46175",
+    "geom:latitude":27.46175,
+    "geom:longitude":-12.99412,
+    "gn:asciiname":"Daoura",
+    "gn:country_code":"EH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9645564,
+    "gn:latitude":27.46175,
+    "gn:longitude":-12.99412,
+    "gn:modification_date":"2014-10-08",
+    "gn:name":"Daoura",
+    "gn:population":900,
+    "gn:timezone":"Africa/El_Aaiun",
+    "iso:country":"EH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9645564
+    },
+    "wof:country":"EH",
+    "wof:geomhash":"fb11a4e2d17d686fde386e7040f2a079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "locality_id":1360304227,
+            "region_id":85673941
+        }
+    ],
+    "wof:id":1360304227,
+    "wof:lastmodified":1536627744,
+    "wof:name":"Daoura",
+    "wof:parent_id":85673941,
+    "wof:placetype":"locality",
+    "wof:population":900,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-eh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -12.99412,
+    27.46175,
+    -12.99412,
+    27.46175
+],
+  "geometry": {"coordinates":[-12.99412,27.46175],"type":"Point"}
+}

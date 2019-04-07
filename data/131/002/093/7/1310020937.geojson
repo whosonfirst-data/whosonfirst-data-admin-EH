@@ -1,0 +1,71 @@
+{
+  "id": 1310020937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-14.10388,21.56523,-14.10388,21.56523",
+    "geom:latitude":21.56523,
+    "geom:longitude":-14.10388,
+    "gn:asciiname":"Zug",
+    "gn:country_code":"EH",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2461423,
+    "gn:latitude":21.56523,
+    "gn:longitude":-14.10388,
+    "gn:modification_date":"2016-03-02",
+    "gn:name":"Zug",
+    "gn:population":0,
+    "gn:timezone":"Africa/El_Aaiun",
+    "iso:country":"EH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zo\u00fbg",
+        "Sug",
+        "Zug",
+        "Zoug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632217,
+        85681349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461423,
+        "wk:page":"Zug%2C_Western_Sahara"
+    },
+    "wof:country":"EH",
+    "wof:geomhash":"eccb6a03736fa20f8b80c8b5ee5a899c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632217,
+            "locality_id":1310020937,
+            "region_id":85681349
+        }
+    ],
+    "wof:id":1310020937,
+    "wof:lastmodified":1537621285,
+    "wof:name":"Zug",
+    "wof:parent_id":85681349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -14.10388,
+    21.56523,
+    -14.10388,
+    21.56523
+],
+  "geometry": {"coordinates":[-14.10388,21.56523],"type":"Point"}
+}

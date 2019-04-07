@@ -1,0 +1,79 @@
+{
+  "id": 1343477027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-13.41583,27.09611,-13.41583,27.09611",
+    "geom:latitude":27.09611,
+    "geom:longitude":-13.41583,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Laayoune Plage",
+    "gn:country_code":"EH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2461993,
+    "gn:latitude":27.09611,
+    "gn:longitude":-13.41583,
+    "gn:modification_date":"2013-03-16",
+    "gn:name":"Laayoune Plage",
+    "gn:population":10450,
+    "gn:timezone":"Africa/El_Aaiun",
+    "iso:country":"EH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Playa del Aaiun"
+    ],
+    "name:spa_x_variant":[
+        "Playa de Aai\u00fan",
+        "Playa del Aai\u00fan"
+    ],
+    "name:und_x_variant":[
+        "Playa del Aaiun",
+        "Playa de Aai\u00fan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632693,
+        85673941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2461993
+    },
+    "wof:country":"EH",
+    "wof:geomhash":"4cc952e1f7cf3caea7f291c4edd20af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632693,
+            "locality_id":1343477027,
+            "region_id":85673941
+        }
+    ],
+    "wof:id":1343477027,
+    "wof:lastmodified":1537621286,
+    "wof:name":"Laayoune Plage",
+    "wof:parent_id":85673941,
+    "wof:placetype":"locality",
+    "wof:population":10450,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-eh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -13.41583,
+    27.09611,
+    -13.41583,
+    27.09611
+],
+  "geometry": {"coordinates":[-13.41583,27.09611],"type":"Point"}
+}
