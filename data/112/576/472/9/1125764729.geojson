@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u0627\u062e\u0644\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u0629"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09be\u0996\u09b2\u09be"
     ],
@@ -29,6 +32,9 @@
         "\u0414\u0430\u0445\u043b\u0430"
     ],
     "name:cat_x_preferred":[
+        "Dakhla"
+    ],
+    "name:ceb_x_preferred":[
         "Dakhla"
     ],
     "name:ces_x_preferred":[
@@ -109,6 +115,9 @@
     "name:mar_x_preferred":[
         "\u0926\u0916\u0932\u093e"
     ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0430\u0445\u043b\u0430"
+    ],
     "name:msa_x_preferred":[
         "Dakhla"
     ],
@@ -136,6 +145,9 @@
     "name:spa_x_variant":[
         "Dajla"
     ],
+    "name:srp_x_preferred":[
+        "\u0414\u0430\u0445\u043b\u0430"
+    ],
     "name:swe_x_preferred":[
         "Dakhla"
     ],
@@ -159,6 +171,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062f\u0627\u062e\u0644\u06c1\u060c \u0645\u063a\u0631\u0628\u06cc \u0635\u062d\u0627\u0631\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u062f\u0627\u062e\u0644\u06c1"
     ],
     "name:vie_x_preferred":[
         "Dakhla"
@@ -203,7 +218,7 @@
         }
     ],
     "wof:id":1125764729,
-    "wof:lastmodified":1561827585,
+    "wof:lastmodified":1563247405,
     "wof:name":"Ad Dakhla",
     "wof:parent_id":85673951,
     "wof:placetype":"locality",

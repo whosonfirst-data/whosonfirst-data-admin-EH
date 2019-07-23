@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Bir Lehlu"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0626\u0631 \u0644\u062d\u0644\u0648"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0456\u0440-\u041b\u0435\u043b\u0443"
     ],
@@ -38,6 +41,9 @@
     "name:est_x_preferred":[
         "Bir Lehl\u00fa"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0626\u0631 \u0644\u062d\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
         "Bir Lehlou"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d3\u30eb\u30fb\u30e9\u30eb\u30d5\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\ub974\ub808\ud758\ub8e8"
     ],
     "name:lit_x_preferred":[
         "Bir Lehlu"
@@ -221,7 +230,7 @@
         }
     ],
     "wof:id":1141909145,
-    "wof:lastmodified":1561827585,
+    "wof:lastmodified":1563247407,
     "wof:name":"Bir Lehlou",
     "wof:parent_id":85681349,
     "wof:placetype":"locality",
