@@ -43,20 +43,26 @@
     "name:ast_x_preferred":[
         "S\u00e1hara Occidental"
     ],
+    "name:ast_x_variant":[
+        "S\u00e1\u1e25ara Occidental"
+    ],
     "name:aze_x_preferred":[
         "Q\u0259rbi Saxara"
     ],
     "name:bak_x_preferred":[
         "\u041a\u04e9\u043d\u0431\u0430\u0439\u044b\u0448 \u0421\u0430\u0445\u0430\u0440\u0430"
     ],
-    "name:bel_x_preferred":[
-        "\u0417\u0430\u0445\u043e\u0434\u043d\u044f\u044f \u0421\u0430\u0445\u0430\u0440\u0430"
+    "name:bcl_x_preferred":[
+        "Sulnupan na Sahara"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0417\u0430\u0445\u043e\u0434\u043d\u044f\u044f \u0421\u0430\u0445\u0430\u0440\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09b6\u09cd\u099a\u09bf\u09ae \u09b8\u09be\u09b9\u09be\u09b0\u09be"
+    ],
+    "name:bih_x_preferred":[
+        "\u092a\u091a\u094d\u091b\u093f\u092e\u0940 \u0938\u0939\u093e\u0930\u093e"
     ],
     "name:bod_x_preferred":[
         "\u0f53\u0f74\u0f56\u0f0b\u0f66\u0f0b\u0f67\u0f0b\u0f62\u0f0d"
@@ -73,8 +79,14 @@
     "name:cat_x_preferred":[
         "S\u00e0hara Occidental"
     ],
+    "name:cdo_x_preferred":[
+        "S\u0103\u0324 Sahara"
+    ],
     "name:ceb_x_preferred":[
         "R\u00edo de Oro"
+    ],
+    "name:ceb_x_variant":[
+        "Western Sahara"
     ],
     "name:ces_x_preferred":[
         "Z\u00e1padn\u00ed Sahara"
@@ -105,6 +117,9 @@
     ],
     "name:dsb_x_preferred":[
         "P\u00f3dwjacorna Sahara"
+    ],
+    "name:dty_x_preferred":[
+        "\u092a\u0936\u094d\u091a\u093f\u092e\u0940 \u0938\u0939\u093e\u0930\u093e"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae \u03a3\u03b1\u03c7\u03ac\u03c1\u03b1"
@@ -164,6 +179,9 @@
     ],
     "name:glg_x_preferred":[
         "S\u00e1hara Occidental"
+    ],
+    "name:grn_x_preferred":[
+        "Kuarahyreike Sa\u00e1ra"
     ],
     "name:hak_x_preferred":[
         "S\u00ee Sahara"
@@ -237,6 +255,9 @@
     "name:kaz_x_preferred":[
         "\u0411\u0430\u0442\u044b\u0441 \u0421\u0430\u0445\u0430\u0440\u0430"
     ],
+    "name:kbp_x_preferred":[
+        "Sahara W\u0269s\u0269 \u0256\u0269\u0256\u028ay\u025b"
+    ],
     "name:kor_x_preferred":[
         "\uc11c\uc0ac\ud558\ub77c"
     ],
@@ -267,6 +288,9 @@
     "name:lrc_x_preferred":[
         "\u0635\u0623\u062d\u0631\u0627 \u0623\u0641\u062a\u0648\u0646\u0626\u0634\u06cc\u0646"
     ],
+    "name:lrc_x_variant":[
+        "\u0633\u0671\u0626\u0631\u0627 \u0671\u0641\u062a\u06c9\u0646\u0634\u06cc\u0646"
+    ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d36\u0d4d\u0d1a\u0d3f\u0d2e \u0d38\u0d39\u0d3e\u0d31"
     ],
@@ -290,6 +314,9 @@
     ],
     "name:msa_x_preferred":[
         "Sahara Barat"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0635\u062d\u0631\u0627"
     ],
     "name:nav_x_preferred":[
         "K\u00e9yah Sah\u00e9\u00e9wa E\u02bce\u02bcaahj\u00ed Si\u02bc\u00e1n\u00edg\u00ed\u00ed"
@@ -326,6 +353,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a2a\u0a71\u0a1b\u0a2e\u0a40 \u0a38\u0a39\u0a3e\u0a30\u0a3e"
+    ],
+    "name:pih_x_preferred":[
+        "Western Sahara"
     ],
     "name:pnb_x_preferred":[
         "\u0644\u06cc\u0646\u062f\u0627 \u0635\u062d\u0631\u0627"
@@ -392,11 +422,11 @@
         "Spanska Sahara",
         "V\u00e4stsahara"
     ],
-    "name:swe_x_variant":[
-        "V\u00e4stsahara"
-    ],
     "name:tam_x_preferred":[
         "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0b95\u0bbe\u0bb0\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c36\u0c4d\u0c1a\u0c3f\u0c2e \u0c38\u0c39\u0c3e\u0c30\u0c3e"
     ],
     "name:tgk_x_preferred":[
         "\u0421\u0430\u04b3\u0440\u043e\u0438 \u0492\u0430\u0440\u0431\u04e3"
@@ -406,6 +436,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e27\u0e2a\u0e40\u0e17\u0e34\u0e23\u0e4c\u0e19\u0e2a\u0e30\u0e2e\u0e32\u0e23\u0e32"
+    ],
+    "name:tso_x_preferred":[
+        "Western Sahara"
     ],
     "name:tur_x_preferred":[
         "Bat\u0131 Sahra"
@@ -562,7 +595,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561827585,
+    "wof:lastmodified":1564211397,
     "wof:name":"Western Sahara",
     "wof:parent_id":85632217,
     "wof:placetype":"region",

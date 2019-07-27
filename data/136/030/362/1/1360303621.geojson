@@ -25,6 +25,39 @@
     "iso:country":"EH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0626\u0631 \u0643\u0646\u062f\u0648\u0632"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0626\u0631 \u06a9\u0646\u062f\u0648\u0632"
+    ],
+    "name:cat_x_preferred":[
+        "Bir Guenduz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0626\u0631 \u06a9\u0646\u062f\u0648\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "Bir Gandouz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05e8 \u05d2\u05e0\u05d3\u05d5\u05d6"
+    ],
+    "name:ita_x_preferred":[
+        "Bir Ganduz"
+    ],
+    "name:pol_x_preferred":[
+        "Bir Kanduz"
+    ],
+    "name:por_x_preferred":[
+        "Bir Gandus"
+    ],
+    "name:spa_x_preferred":[
+        "Bir Ganduz"
+    ],
+    "name:srd_x_preferred":[
+        "Bir Ganduz"
+    ],
     "name:und_x_variant":[
         "Bir Ganduz",
         "Anzarane",
@@ -52,7 +85,7 @@
         }
     ],
     "wof:id":1360303621,
-    "wof:lastmodified":1537621287,
+    "wof:lastmodified":1564211399,
     "wof:name":"Bir Gandus",
     "wof:parent_id":85673951,
     "wof:placetype":"locality",
