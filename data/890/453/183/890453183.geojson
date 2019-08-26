@@ -11,10 +11,12 @@
     "geom:longitude":-13.186966,
     "gn:country":"EH",
     "gn:fcode":"PPLC",
-    "gn:pop":188084,
+    "gn:population":188084,
     "iso:country":"EH",
     "lbl:latitude":27.16224,
     "lbl:longitude":-13.20315,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -283,9 +285,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0410\u044e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Laayoune"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0639\u06cc\u0648\u0646"
     ],
@@ -415,7 +414,7 @@
     "wof:concordances":{
         "gn:id":2462881,
         "gp:id":1466769,
-        "qs:id":278685,
+        "qs_pg:id":278685,
         "wd:id":"Q47837"
     },
     "wof:country":"EH",
@@ -430,7 +429,7 @@
         }
     ],
     "wof:id":890453183,
-    "wof:lastmodified":1563247405,
+    "wof:lastmodified":1566586930,
     "wof:name":"La\u00e2youne / El Aai\u00fan",
     "wof:parent_id":85673941,
     "wof:placetype":"locality",
