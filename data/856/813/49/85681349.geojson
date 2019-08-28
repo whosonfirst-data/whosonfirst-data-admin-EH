@@ -13,6 +13,7 @@
     "iso:country":"EH",
     "lbl:latitude":23.966435,
     "lbl:longitude":-12.632405,
+    "lbl:min_zoom":8.0,
     "mps:latitude":23.966435,
     "mps:longitude":-12.632405,
     "mz:hierarchy_label":1,
@@ -449,13 +450,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0445\u0456\u0434\u043d\u0430 \u0421\u0430\u0445\u0430\u0440\u0430"
     ],
-    "name:und_x_preferred":[
-        "Zahodna Sahara"
-    ],
-    "name:und_x_variant":[
-        "Vest-Sahara",
-        "Vestsahara"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u063a\u0631\u0628\u06cc \u0635\u062d\u0627\u0631\u0627"
     ],
@@ -566,7 +560,7 @@
     "qs:type":"Admin-1 aggregation",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632217
@@ -577,7 +571,7 @@
         "gn:id":2461445,
         "gp:id":23424990,
         "hasc:id":"EH",
-        "qs:id":1087778
+        "qs_pg:id":1087778
     },
     "wof:country":"EH",
     "wof:geomhash":"3f964b905e8f3584e1faa92457a272b8",
@@ -595,7 +589,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1564211397,
+    "wof:lastmodified":1566586927,
     "wof:name":"Western Sahara",
     "wof:parent_id":85632217,
     "wof:placetype":"region",
