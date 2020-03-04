@@ -600,7 +600,6 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -658,7 +657,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582355575,
+    "wof:lastmodified":1583237606,
     "wof:name":"Western Sahara",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
