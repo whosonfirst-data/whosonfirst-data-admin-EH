@@ -419,6 +419,9 @@
     },
     "wof:country":"EH",
     "wof:created":1469052844,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"17cceae3a8fd4f7058dbb0dda778474e",
     "wof:hierarchy":[
         {
@@ -429,7 +432,7 @@
         }
     ],
     "wof:id":890453183,
-    "wof:lastmodified":1566586930,
+    "wof:lastmodified":1582355575,
     "wof:name":"La\u00e2youne / El Aai\u00fan",
     "wof:parent_id":85673941,
     "wof:placetype":"locality",
