@@ -9,7 +9,6 @@
     "geom:bbox":"-17.1046443346,20.7669131531,-8.68080908227,27.6614653405",
     "geom:latitude":24.232561,
     "geom:longitude":-12.214962,
-    "gn:id":"",
     "iso:country":"EH",
     "lbl:latitude":23.966435,
     "lbl:longitude":-12.632405,
@@ -589,7 +588,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566586927,
+    "wof:lastmodified":1603259477,
     "wof:name":"Western Sahara",
     "wof:parent_id":85632217,
     "wof:placetype":"region",
