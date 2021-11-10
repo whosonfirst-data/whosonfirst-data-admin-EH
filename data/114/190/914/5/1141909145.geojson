@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-9.65252221825,26.119166686,-9.65252221825,26.119166686",
+    "geom:bbox":"-9.652522,26.119167,-9.652522,26.119167",
     "geom:latitude":26.119167,
     "geom:longitude":-9.652522,
     "iso:country":"EH",
@@ -30,6 +30,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0456\u0440-\u041b\u0435\u043b\u0443"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u09b0 \u09b2\u09c7\u09b9\u09b2\u09cb\u0989"
+    ],
     "name:cat_x_preferred":[
         "Bir Lahlu"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:deu_x_preferred":[
         "Bir Lehlu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03c1 \u039b\u03b5\u03bb\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Bir Lehlou"
@@ -50,6 +56,12 @@
     ],
     "name:fra_x_preferred":[
         "Bir Lehlou"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05e8 \u05dc\u05d4\u05dc\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0940\u0930 \u0932\u0939\u0932\u0942"
     ],
     "name:ind_x_preferred":[
         "Bir Lehlou"
@@ -108,7 +120,13 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0440-\u041b\u0435\u043b\u0443"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631 \u0644\u06cc\u06c1\u0644\u0648"
+    ],
     "name:vec_x_preferred":[
+        "Bir Lehlou"
+    ],
+    "name:vie_x_preferred":[
         "Bir Lehlou"
     ],
     "name:war_x_preferred":[
@@ -224,7 +242,7 @@
     },
     "wof:country":"EH",
     "wof:created":1499131032,
-    "wof:geomhash":"f814bc48e9721d51e2a3848d7895d3aa",
+    "wof:geomhash":"3c5b1159399d2701e075e458e60cf735",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -234,7 +252,7 @@
         }
     ],
     "wof:id":1141909145,
-    "wof:lastmodified":1566586931,
+    "wof:lastmodified":1636502499,
     "wof:name":"Bir Lehlou",
     "wof:parent_id":85681349,
     "wof:placetype":"locality",
@@ -244,10 +262,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -9.65252221825011,
-    26.11916668599338,
-    -9.65252221825011,
-    26.11916668599338
+    -9.652522,
+    26.119167,
+    -9.652522,
+    26.119167
 ],
-  "geometry": {"coordinates":[-9.65252221825011,26.11916668599338],"type":"Point"}
+  "geometry": {"coordinates":[-9.652522,26.119167],"type":"Point"}
 }

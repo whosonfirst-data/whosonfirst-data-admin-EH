@@ -31,6 +31,9 @@
     "name:azb_x_preferred":[
         "\u0632\u0648\u06a9"
     ],
+    "name:ben_x_preferred":[
+        "\u099c\u09c1\u0997"
+    ],
     "name:cat_x_preferred":[
         "Zug"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:fra_x_preferred":[
         "Zoug"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u0917"
     ],
     "name:spa_x_preferred":[
         "Zug"
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1310020937,
-    "wof:lastmodified":1566586929,
+    "wof:lastmodified":1636502498,
     "wof:name":"Zug",
     "wof:parent_id":85681349,
     "wof:placetype":"locality",

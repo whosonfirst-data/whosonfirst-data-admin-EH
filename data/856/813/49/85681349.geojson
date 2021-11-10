@@ -451,6 +451,9 @@
         "\u0417\u0430\u0445\u0456\u0434\u043d\u0430 \u0421\u0430\u0445\u0430\u0440\u0430"
     ],
     "name:urd_x_preferred":[
+        "\u0648\u06cc\u0633\u0679\u0631\u0646 \u0633\u06c1\u0627\u0631\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u0645\u063a\u0631\u0628\u06cc \u0635\u062d\u0627\u0631\u0627"
     ],
     "name:uzb_x_preferred":[
@@ -480,8 +483,14 @@
     "name:zea_x_preferred":[
         "Westelijke Sahara"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u897f\u6492\u54c8\u62c9"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Sai Sahara"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u897f\u6492\u54c8\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u897f\u6492\u54c8\u62c9"
@@ -592,7 +601,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1617131421,
+    "wof:lastmodified":1636502498,
     "wof:name":"Western Sahara",
     "wof:parent_id":85632217,
     "wof:placetype":"region",
