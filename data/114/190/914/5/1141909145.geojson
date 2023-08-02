@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0626\u0631 \u0644\u062d\u0644\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0626\u0631 \u0644\u062d\u0644\u0648"
+    ],
     "name:ast_x_preferred":[
         "Bir Lehlu"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0456\u0440-\u041b\u0435\u043b\u0443"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0456\u0440-\u041b\u0435\u043b\u0443"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b0 \u09b2\u09c7\u09b9\u09b2\u09cb\u0989"
@@ -62,6 +68,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092c\u0940\u0930 \u0932\u0939\u0932\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Bir Lehlou"
     ],
     "name:ind_x_preferred":[
         "Bir Lehlou"
@@ -111,8 +120,14 @@
     "name:srd_x_preferred":[
         "Bir Lehlu"
     ],
+    "name:swa_x_preferred":[
+        "Bir Lehlou"
+    ],
     "name:swe_x_preferred":[
         "Bir Lehlou"
+    ],
+    "name:swe_x_variant":[
+        "Bir Lehlu"
     ],
     "name:tur_x_preferred":[
         "Bir Lehlu"
@@ -252,7 +267,7 @@
         }
     ],
     "wof:id":1141909145,
-    "wof:lastmodified":1636502499,
+    "wof:lastmodified":1690876162,
     "wof:name":"Bir Lehlou",
     "wof:parent_id":85681349,
     "wof:placetype":"locality",

@@ -20,6 +20,18 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0645\u0627\u0631\u0629"
     ],
+    "name:ary_x_preferred":[
+        "\u0627\u0644\u0633\u0645\u0627\u0631\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0633\u0645\u0627\u0631\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Smara"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0645\u0627\u0631\u0647"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09ae\u09be\u09b0\u09be"
     ],
@@ -65,6 +77,9 @@
     "name:fra_x_preferred":[
         "Es-Semara"
     ],
+    "name:fra_x_variant":[
+        "Smara"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0aae\u0abe\u0ab0\u0abe"
     ],
@@ -100,6 +115,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0938\u094d\u092e\u093e\u0930\u093e"
+    ],
+    "name:mlt_x_preferred":[
+        "Smara"
     ],
     "name:msa_x_preferred":[
         "Smara"
@@ -145,6 +163,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043c\u0430\u0440\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0415\u0441-\u0421\u0435\u043c\u0430\u0440\u0430"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0645\u0627\u0631\u0627"
@@ -203,7 +224,7 @@
         }
     ],
     "wof:id":421173611,
-    "wof:lastmodified":1566586929,
+    "wof:lastmodified":1690876161,
     "wof:name":"Semara",
     "wof:parent_id":85673947,
     "wof:placetype":"locality",
