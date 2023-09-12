@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.134032,
-    "geom:area_square_m":91740493154.145081,
+    "geom:area_square_m":91670006651.519348,
     "geom:bbox":"-17.108889,20.770066,-8.666665,27.668767",
     "geom:latitude":24.225516,
     "geom:longitude":-12.216078,
@@ -13,6 +13,9 @@
     "iso:country":"EH",
     "itu:country_code":[
         "212"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "lbl:latitude":23.965479,
     "lbl:longitude":-12.631682,
@@ -755,6 +758,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
+    "src:population_year":"2017",
     "statoids:dial":"212",
     "statoids:ds":"",
     "statoids:fifa":"SAH",
@@ -802,7 +806,7 @@
         "naturalearth",
         "quattroshapes"
     ],
-    "wof:geomhash":"fa9b3c1ad892695818b8096ade915c1c",
+    "wof:geomhash":"31907f197a7cc68a6bf1d28d04969f21",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -813,11 +817,12 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690876161,
+    "wof:lastmodified":1694492215,
     "wof:name":"Western Sahara",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":-99,
+    "wof:population":603253,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-eh",
     "wof:shortcode":"EH",
     "wof:superseded_by":[],

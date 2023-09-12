@@ -5,19 +5,22 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.048648,
-    "geom:area_square_m":90702672257.25798,
+    "geom:area_square_m":90702672257.258469,
     "geom:bbox":"-17.104644,20.766913,-8.680809,27.661465",
     "geom:latitude":24.232561,
     "geom:longitude":-12.214962,
     "gn:id":"",
     "iso:country":"EH",
+    "label:eng_x_preferred_placetype":[
+        "statistical gore"
+    ],
     "lbl:latitude":23.966435,
     "lbl:longitude":-12.632405,
     "lbl:min_zoom":8.0,
     "mps:latitude":23.966435,
     "mps:longitude":-12.632405,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":18.0,
     "name:ace_x_preferred":[
@@ -586,7 +589,7 @@
         85632217
     ],
     "wof:country":"EH",
-    "wof:geomhash":"901e0a041591f4d37bf93057f43e7433",
+    "wof:geomhash":"8e3bc4565a184bedeb731a15e659e34a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -601,7 +604,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636502498,
+    "wof:lastmodified":1694493128,
     "wof:name":"Western Sahara",
     "wof:parent_id":85632217,
     "wof:placetype":"region",
