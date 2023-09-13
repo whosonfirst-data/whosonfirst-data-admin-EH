@@ -758,7 +758,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2017",
+    "src:population_date":"2017",
     "statoids:dial":"212",
     "statoids:ds":"",
     "statoids:fifa":"SAH",
@@ -817,7 +817,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1694492215,
+    "wof:lastmodified":1694639668,
     "wof:name":"Western Sahara",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
