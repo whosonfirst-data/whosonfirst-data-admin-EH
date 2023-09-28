@@ -583,8 +583,10 @@
         "gn:id":2461445,
         "gp:id":23424990,
         "hasc:id":"EH",
+        "iso:code_pseudo":"EH",
         "qs_pg:id":1087778
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:coterminous":[
         85632217
     ],
@@ -604,7 +606,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694493128,
+    "wof:lastmodified":1695884286,
     "wof:name":"Western Sahara",
     "wof:parent_id":85632217,
     "wof:placetype":"region",
